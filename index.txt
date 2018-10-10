@@ -1,3 +1,2 @@
 Hallo, wie gehts?
-welche rTag ist heute?
-Wie ist das Wetter?
+welche rTag ist heute? //das r steht falsch
