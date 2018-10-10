@@ -1,2 +1,2 @@
-Hallo, was geht?
-welche rTag ist heute? Das r ist falsch gelandet
+Hallo, wie gehts?
+welche rTag ist heute? //das r steht falsch
