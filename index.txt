@@ -1,3 +1,4 @@
 Hallo, wie gehts?
 welche rTag ist heute?
 Wie ist das Wetter?
+Wie wird das Wetter morgen?
